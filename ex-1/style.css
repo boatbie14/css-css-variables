@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
 }
+
 :root{
   --branding-color:#ff7f50;
   --secondary-color: cornsilk;
@@ -14,7 +15,7 @@
   background-color: var(--secondary-color);
   padding: var(--level5);
 }
-
+ 
 h1{
   color: var(--branding-color);
   font-size: var(--level5);
